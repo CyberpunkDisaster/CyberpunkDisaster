@@ -28,12 +28,13 @@
   <img src="https://streak-stats.demolab.com?user=CyberpunkDisaster&hide_border=true&background=00000000&ring=D362A4&fire=FF9A56&currStreakLabel=D362A4&sideLabels=9f9f9f&currStreakNum=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&stroke=A30262" />
 </p>
 
-<!-- Serpent (nécessite le workflow .github/workflows/snake.yml) -->
+<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberpunkDisaster/CyberpunkDisaster/output/snake-dark.svg" />
     <img alt="snake" src="https://raw.githubusercontent.com/CyberpunkDisaster/CyberpunkDisaster/output/snake.svg" />
   </picture>
 </p>
+-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:A30262,35:D362A4,70:FF9A56,100:D52D00&height=4" />
