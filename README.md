@@ -31,15 +31,9 @@
 ### Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberpunkDisaster&show_icons=true&hide_border=true&bg_color=00000000&title_color=D362A4&icon_color=FF9A56&text_color=9f9f9f&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberpunkDisaster&layout=compact&hide_border=true&bg_color=00000000&title_color=D362A4&text_color=9f9f9f" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=CyberpunkDisaster&hide_border=true&background=00000000&ring=D362A4&fire=FF9A56&currStreakLabel=D362A4&sideLabels=9f9f9f&currStreakNum=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&stroke=A30262" />
 </p>
 
-<!-- Serpent qui mange ta grille de contributions (nécessite le workflow .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberpunkDisaster/CyberpunkDisaster/output/snake-dark.svg" />
