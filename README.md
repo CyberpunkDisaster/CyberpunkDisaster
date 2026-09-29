@@ -8,7 +8,7 @@
 
 ☭ I'd love to work on projects that serve society, and I see open source as essential to that: code should be free, shared, and built collectively, not locked away for profit.
 
-🔧 Currently working on *NOTHING*
+🔧 Currently working on **NOTHING**
 
 💬 I'm a huge body modification enthusiast, so feel free to chat with me about it!
 
