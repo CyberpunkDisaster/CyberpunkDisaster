@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**CyberpunkDisaster/CyberpunkDisaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Lyra (she/her), i'm a lesbian CS student based in France 🏳️‍🌈
 
-Here are some ideas to get you started:
+💻 I've built projects in **Python, C#, C++ and GDScript**, and I'm currently learning **C**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 My goal is to contribute to the **Godot engine** someday, but I'm not there yet (T-T), so I'm leveling up through smaller projects.
+
+☭ I'd love to work on projects that serve society, and I see open source as essential to that: code should be free, shared, and built collectively, not locked away for profit.
+
+🔧 Currently working on *NOTHING*
+
+💬 I'm a huge body modification enthusiast, so feel free to chat with me about it!
+
+📫 Reach me at: *[redgirlongithub@proton.me]*
