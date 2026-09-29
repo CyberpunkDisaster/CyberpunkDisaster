@@ -12,4 +12,4 @@
 
 💬 I'm a huge body modification enthusiast, so feel free to chat with me about it!
 
-📫 Reach me at: *[redgirlongithub@proton.me]*
+📫 Reach me at: *redgirlongithub@proton.me*
