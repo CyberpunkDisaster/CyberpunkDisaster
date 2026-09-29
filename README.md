@@ -1,23 +1,54 @@
-## Hi there 👋
+<h2 align="center">Hi there, I'm Lyra 👋</h2>
 
-### My name is Lyra (she/her), i'm a lesbian CS student based in France 🏳️‍🌈
+<!-- Fine ligne dégradée aux couleurs du drapeau lesbien -->
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:D52D00,30:FF9A56,65:D362A4,100:A30262&height=4" />
 
-💻 I've built projects in **Python, C#, C++ and GDScript**, and I'm currently learning **C**.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D362A4&center=true&vCenter=true&width=500&lines=Learning+C%2C+one+segfault+at+a+time...;Godot+enjoyer+%F0%9F%8E%AE;Code+should+belong+to+everyone" alt="Typing SVG" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-D52D00?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-FF9A56?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=black)
-![C](https://img.shields.io/badge/C-D362A4?style=for-the-badge&logo=c&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-A30262?style=for-the-badge&logo=godotengine&logoColor=white)
+### About me
 
-🎮 My goal is to contribute to the **Godot engine** someday, but I'm not there yet (T-T), so I'm leveling up through smaller projects.
+- 🏳️‍🌈 Lyra (she/her), lesbian CS student based in France
+- 💻 I've built projects in **Python, C#, C++ and GDScript**, and I'm currently learning **C**
+- 🎮 My goal is to contribute to the **Godot engine** someday, but I'm not there yet (T-T), so I'm leveling up through smaller projects
+- ☭ I'd love to work on projects that serve society, and I see open source as essential to that: code should be free, shared, and built collectively, not locked away for profit
+- 🔧 Currently working on **NOTHING**
+- 💬 I'm a huge body modification enthusiast, so feel free to chat with me about it!
 
-☭ I'd love to work on projects that serve society, and I see open source as essential to that: code should be free, shared, and built collectively, not locked away for profit.
+### Tech stack
 
-🔧 Currently working on **NOTHING**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-D52D00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-FF9A56?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-D362A4?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-A30262?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
 
-💬 I'm a huge body modification enthusiast, so feel free to chat with me about it!
+### Stats
 
-📫 Reach me at: *redgirlongithub@proton.me*
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CyberpunkDisaster&show_icons=true&hide_border=true&bg_color=00000000&title_color=D362A4&icon_color=FF9A56&text_color=9f9f9f&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberpunkDisaster&layout=compact&hide_border=true&bg_color=00000000&title_color=D362A4&text_color=9f9f9f" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D362A4&width=500&lines=Learning+C%2C+one+segfault+at+a+time...;Godot+enjoyer+%F0%9F%8E%AE;Code+should+belong+to+everyone)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CyberpunkDisaster&hide_border=true&background=00000000&ring=D362A4&fire=FF9A56&currStreakLabel=D362A4&sideLabels=9f9f9f&currStreakNum=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&stroke=A30262" />
+</p>
+
+<!-- Serpent qui mange ta grille de contributions (nécessite le workflow .github/workflows/snake.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberpunkDisaster/CyberpunkDisaster/output/snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/CyberpunkDisaster/CyberpunkDisaster/output/snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  📫 <a href="mailto:redgirlongithub@proton.me"><b>redgirlongithub@proton.me</b></a>
+</p>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:A30262,35:D362A4,70:FF9A56,100:D52D00&height=4" />
