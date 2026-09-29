@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%">
+
 ## Hi there 👋
 
 ### My name is Lyra (she/her), i'm a lesbian CS student based in France 🏳️‍🌈
