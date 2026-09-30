@@ -2,7 +2,11 @@
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:D52D00,30:FF9A56,65:D362A4,100:A30262&height=4" />
 
-### My name is Lyra (she/her), I'm a lesbian CS student based in France 🏳️‍🌈
+<div align="center">
+
+  ### My name is Lyra (she/her), I'm a lesbian CS student based in France 🏳️‍🌈
+
+</div>
 
 💻 I've built projects in **Python, C#, C++ and GDScript**, and I'm currently learning **C**.
 
