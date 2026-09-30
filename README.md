@@ -8,25 +8,29 @@
 
 </div>
 
-💻 I've built projects in **Python, C#, C++ and GDScript**, and I'm currently learning **C**.
+  💻 I've built projects in **Python, C#, C++ and GDScript**, and I'm currently learning **C**.
 
-![Python](https://img.shields.io/badge/Python-D52D00?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-FF9A56?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=black)
-![C](https://img.shields.io/badge/C-D362A4?style=for-the-badge&logo=c&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-A30262?style=for-the-badge&logo=godotengine&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-D52D00?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-FF9A56?style=for-the-badge&logo=csharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=black)
+  ![C](https://img.shields.io/badge/C-D362A4?style=for-the-badge&logo=c&logoColor=white)
+  ![Godot](https://img.shields.io/badge/Godot-A30262?style=for-the-badge&logo=godotengine&logoColor=white)
 
-🎮 My goal is to contribute to the **Godot engine** someday, but I'm not there yet (T-T), so I'm leveling up through smaller projects.
+  🎮 My goal is to contribute to the **Godot engine** someday, but I'm not there yet (T-T), so I'm leveling up through smaller projects.
 
-☭ I'd love to work on projects that serve society, and I see open source as essential to that: code should be free, shared, and built collectively, not locked away for profit.
+  ☭ I'd love to work on projects that serve society, and I see open source as essential to that: code should be collectively owned, not someone's property.
 
-🔧 Currently working on **NOTHING**
+  🔧 Currently working on **NOTHING**
 
-💬 I'm a huge body modification enthusiast, so feel free to chat with me about it!
+  💬 I'm a huge body modification enthusiast, so feel free to chat with me about it!
 
-📫 Reach me at: *redgirlongithub@proton.me*
+  📫 Reach me at: *redgirlongithub@proton.me*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D362A4&width=500&lines=Learning+C%2C+one+segfault+at+a+time...;Godot+enjoyer+%F0%9F%8E%AE;Code+should+belong+to+everyone)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D362A4&center=true&vCenter=true&width=500&lines=Learning+C+and+losing+my+mind+%F0%9F%92%80;Godot+enjoyer+%F0%9F%A4%96;Fuck+intellectual+property+%F0%9F%94%A5;From+the+river+to+the+sea+%F0%9F%87%B5%F0%9F%87%B8" alt="Typing SVG" /></a>
+</p>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:A30262,35:D362A4,70:FF9A56,100:D52D00&height=4" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CyberpunkDisaster&hide_border=true&background=00000000&ring=D362A4&fire=FF9A56&currStreakLabel=D362A4&sideLabels=9f9f9f&currStreakNum=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&stroke=A30262" />
@@ -41,4 +45,4 @@
 </p>
 -->
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:A30262,35:D362A4,70:FF9A56,100:D52D00&height=4" />
+
